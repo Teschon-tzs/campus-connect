@@ -2,7 +2,8 @@
 
 | Member | Name | GitHub username | Responsibility |
 | --- | --- | --- | --- |
-| 1 | Name | Username | Overview |
-| 2 | Name | Username | Programme |
-| 3 | Name | Username | Publicity |
-| 4 | Name | Username | Logistics |
+| 1 | Taylon | Key | Overview |
+| 2 | Lali | Lali | Programme |
+| 3 | Wen Shuang | zengWs | Publicity |
+| 4 | Jun Ming | junmingrs | Logistics |
+| 5 | Zen Xiao | Xiao Wei | Budget |
