@@ -2,7 +2,12 @@
 
 Event date: To be confirmed.
 Venue: To be confirmed.
+<<<<<<< HEAD
 Organisers: Member 4
+=======
+Organisers: Team coordinator.
+
+>>>>>>> origin/main
 ## Purpose
 
 Bring students together through a welcoming campus event.
