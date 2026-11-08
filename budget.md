@@ -1,16 +1,16 @@
-Budget
+# Budget
 
 Planning for Budget
 planning in items
 
-Items
+## Items
 Food
 Beverages
 Electronic Devices
 Travel
 Insurance
 
-Purposed
+## Purposed
 Do not exceed the budget limit
 
 How much is our group budget ?
